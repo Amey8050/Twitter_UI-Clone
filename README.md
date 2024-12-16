@@ -1,0 +1,2 @@
+# TwitterClone
+ Twitter UI Clone ✨ Welcome to Twitter UI Clone, a responsive and modern recreation of Twitter's user interface. I built this project using HTML, Tailwind CSS, and Node.js, focusing on clean design and responsive layouts. It was a great opportunity to enhance my Tailwind CSS skills and experiment with utility-first styling.  I was really happy to work on this project, and it’s been a fun and rewarding experience to bring this clone to life!
